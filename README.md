@@ -18,8 +18,8 @@ By the end of this submodule, you should be able to:
 Here are some useful resources for you to explore:
 
 * [The lecture](https://docs.google.com/presentation/d/1-yZjXlJYil2NfeydVLN-b3PS1HvP15NcvIx0GubLA7g/edit?usp=sharing)
-* [The Python Tutorial](https://docs.python.org/3/tutorial/)
-* [Python tutorial](https://www.w3schools.com/python/)
+* [The Django Tutorial on Django Girls](https://tutorial.djangogirls.org/en/)
+* [The Django Tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 
 ## Exercises
