@@ -32,7 +32,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src)
 
 2. Adding new app, URL configuration and routing 
 > **Time:** 40 minutes
@@ -43,7 +43,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/urls-and-routing)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/urls-and-routing/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/tree/solution/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/urls-and-routing/src)
 
 3. Views and templating
 > **Time:** 30 minutes
@@ -52,7 +52,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/views-and-templating)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/views-and-templating/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/views-and-templating/src)
 
 4. Sessions and cookies
 > **Time:** 15 minutes
@@ -61,7 +61,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/sessions-and-cookies)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/sessions-and-cookies/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/sessions-and-cookies/src)
 
 5. Testing in Django
 > **Time:** 25 minutes
@@ -70,7 +70,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/testing-in-django)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/testing-in-django/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/testing-in-django/src)
 
 
 6. Django middleware
@@ -80,4 +80,4 @@ Here are some useful resources for you to explore:
 >
 > **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/django-middleware)
 >
-> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/start-new-project/tree/solution](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/django-middleware/tree/solution)
+> **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/start-new-project/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/django-middleware/src)
