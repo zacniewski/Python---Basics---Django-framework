@@ -36,11 +36,11 @@ Here are some useful resources for you to explore:
 2. Adding new app, URL configuration and routing 
 > **Time:** 40 minutes
 >
-> **Level of Difficult**: Low
+> **Level of Difficult**: medium
 >
 > **Description**: There are few sub-tasks to complete
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/urls-and-routing)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/urls-and-routing](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/urls-and-routing)
 >
 
 3. Views and templating
@@ -48,30 +48,30 @@ Here are some useful resources for you to explore:
 >
 > **Level of Difficult**: medium
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/views-and-templating)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/views-and-templating](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/views-and-templating)
 >
 
 4. Sessions and cookies
-> **Time:** 15 minutes
+> **Time:** 30 minutes
 >
 > **Level of Difficult**: medium
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/sessions-and-cookies)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/sessions-and-cookies](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/sessions-and-cookies)
 >
 
 5. Testing in Django
-> **Time:** 25 minutes
+> **Time:** 30 minutes
 >
 > **Level of Difficult**: medium
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/testing-in-django)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/testing-in-django](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/testing-in-django)
 >
 
 
 6. Django middleware
-> **Time:** 15 minutes
+> **Time:** 40 minutes
 >
-> **Level of Difficult**: low
+> **Level of Difficult**: medium
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/start-new-project](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/django-middleware)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/django-middleware](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/django-middleware)
 >
