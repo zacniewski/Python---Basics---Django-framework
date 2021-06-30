@@ -50,7 +50,7 @@ Here are some useful resources for you to explore:
 >
 > **Level of Difficult**: medium
 >
-> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/views-and-templating](https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/views-and-templating)
+> **Link:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/views-and-templating](https://github.com/zacniewski/Python-Basics-Django-framework/tree/main/django-framework-exercises/views-and-templating)
 >
 > **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/views-and-templating/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/views-and-templating/src)
 
