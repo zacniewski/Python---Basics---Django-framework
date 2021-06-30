@@ -4,6 +4,7 @@
 
 - create virtual environment with name suggested by teacher,  
 - activate virtualenv and install Django in this virtualenv,  
+- create list of installed packages,  
 - start new project in Django using command line,  
 - run development server without errors.
 
