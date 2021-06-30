@@ -9,8 +9,8 @@
 ```python3 -m venv my-env```  
 
 - activate virtualenv,  
-```source my-env/bin/activate``` - after activation of virtualenv you should see in console its name in parentheses: 
->(my-env)  
+```source my-env/bin/activate``` - after activation of virtualenv you should see in console its name in parentheses, for example: 
+>(my-env) artur@artur-MSI:~/Desktop/DCI/exercises-django$
 
 - install Django in this virtualenv,  
 ```pip install Django```
