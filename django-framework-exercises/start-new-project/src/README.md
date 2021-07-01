@@ -35,7 +35,8 @@ The dot at the end of the command is important, it represents current folder!
 - after this command you should see in your terminal following view:  
 ![ex1-2](../../../django-framework-exercises/screenshots/ex1-2.png)  
 
-For now, don't worry about red warnings about migrations. This topic will be covered later.
+For now, don't worry about red warnings about migrations. This topic will be covered later.  
+After running development server new file ```db.sqlite3``` appeared in your folder. This is default Django database, which is set in ```settings.py``` (configuration file of Django project). WOrking with databases in Django will be covered later!
 
 8. Open link ```http://127.0.0.1:8000/``` in the browser. If you see image like below - congratulations! 
 ![ex1-2](../../../django-framework-exercises/screenshots/ex1-3.png)  
