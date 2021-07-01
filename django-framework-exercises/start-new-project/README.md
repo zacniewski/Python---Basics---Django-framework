@@ -23,7 +23,7 @@ The dot at the end of the command is important, it represents current folder!
 7. Run development server.  
 For now, don't worry about red warnings about migrations. This topic will be covered later.
 
-8. Open link ```http://127.0.0.1:8000/``` in the browser. If you dont's see errors -congratulations! 
+8. Open link ```http://127.0.0.1:8000/``` in the browser. If you dont's see errors - congratulations! 
 
 ## Input/Output:
 ```
