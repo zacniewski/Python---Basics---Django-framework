@@ -5,11 +5,14 @@
 ```mkdir exercises-django```  
 ```cd exercises-django/```  
 
+   **For all exercises you'll need only this one folder!**
+
 2. Create virtual environment with name suggested by teacher (for example 'my-env'):  
 ```python3 -m venv my-env```  
 
 3. Activate virtualenv:  
-```source my-env/bin/activate``` - after activation of virtualenv you should see in console its name in parentheses, for example: 
+```source my-env/bin/activate```   
+After activation of virtualenv you should see in console its name in parentheses, for example: 
    >(my-env) artur@artur-MSI:~/Desktop/DCI/exercises-django$
 
 4. Install Django in this virtualenv:  
