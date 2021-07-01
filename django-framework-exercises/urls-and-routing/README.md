@@ -15,7 +15,7 @@
 
 5. In your app (myapp) folder create file ```urls.py```. Import created views and create two different paths (for both views, for example 'hello/' and 'json/').
 
-6. In your project (mysite) folder update ```urls.py``` file by adding information about urls from your app. Use ```include()``` function.
+6. In your project (mysite) folder update ```urls.py``` file by adding information about urls from your app. Use [include()](https://docs.djangoproject.com/en/3.2/ref/urls/#include) function.
 
 7. Run development server.
 
