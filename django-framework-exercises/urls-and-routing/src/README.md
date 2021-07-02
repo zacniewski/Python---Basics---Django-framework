@@ -19,10 +19,10 @@
 
    ![ex2-3](../../../django-framework-exercises/screenshots/ex2-3.png)
 
-5. In your app (myapp) folder create file ```urls.py```. Import created views and create two different paths (for both views, for example 'hello/' and 'json/'):    
+5. In your app (myapp) folder create file ```urls.py``` (app-level urls). Import previously created views and create two different paths (for both views, for example 'hello/' and 'json/'):    
    ![ex2-4](../../../django-framework-exercises/screenshots/ex2-4.png)
 
-6. In your project (mysite) folder update ```urls.py``` file by adding information about urls from your app. Use ```include()``` function:  
+6. In your project (mysite) folder update ```urls.py``` file (project-level urls) by adding information about urls from your app. Use ```include()``` function:  
    ![ex2-5](../../../django-framework-exercises/screenshots/ex2-5.png)
 
 
