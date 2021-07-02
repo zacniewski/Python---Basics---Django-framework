@@ -18,7 +18,7 @@ After activation of virtualenv you should see in console its name in parentheses
 4. Install Django in this virtualenv:  
 ```pip install Django```
 
-5. Create list of installed packages and:    
+5. Create list of installed packages and save it ```requirements.txt``` file:    
 ```pip freeze > requirements.txt```  
 
 6. Start new project 'mysite' in Django using django-admin:   
