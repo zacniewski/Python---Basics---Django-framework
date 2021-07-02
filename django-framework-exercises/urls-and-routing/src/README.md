@@ -1,4 +1,4 @@
-# # Urls and routing in Django 
+# Urls and routing in Django 
 
 ## Tasks
 1. So far we have created virtual environment inside 'django-exercise' folder and we have project named 'mysite'.  
