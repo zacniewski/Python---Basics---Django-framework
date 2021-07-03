@@ -62,7 +62,7 @@ In ```css``` folder create ```base.css``` file and in ```js``` folder create ```
 * in ```base.js``` add rule for changing color of all (or selected) specific headers to green. 
   ![ex3-11](../../../django-framework-exercises/screenshots/ex3-11.png) 
 
-* if everything works fine, you should see effects of your changes:
+* if everything works fine, you should see effects of your changes:  
   ![ex3-12](../../../django-framework-exercises/screenshots/ex3-12.png) 
 
 ## Input/Output:
