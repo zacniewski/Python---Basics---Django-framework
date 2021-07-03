@@ -71,16 +71,11 @@ In ```css``` folder create ```base.css``` file and in ```js``` folder create ```
 * use this dictionary as a first optional argument in ```render``` function to pass it to given template,
   ![ex3-13](../../../django-framework-exercises/screenshots/ex3-13.png) 
 
-
 * in template ```base.html``` use [variable](https://docs.djangoproject.com/en/3.2/topics/templates/#variables) in ```<body>``` section to get the value from the context:
-  ![ex3-14](../../../django-framework-exercises/screenshots/ex3-14.png) 
+  ![ex3-14](../../../django-framework-exercises/screenshots/ex3-14.png)  
 
-* you should see value from template context displayed in the browser:
+* you should see value from template context displayed in the browser:  
   ![ex3-15](../../../django-framework-exercises/screenshots/ex3-15.png) 
-
-
-
-
 
 ## Input/Output:
 ```
