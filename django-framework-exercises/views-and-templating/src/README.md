@@ -48,21 +48,22 @@ Hint: use [extends](https://docs.djangoproject.com/en/3.2/ref/templates/builtins
 8. Adding static files to project:
 *  create folder ```static``` at the project level and create two folders inside it: ```css``` and ```js```.  
 In ```css``` folder create ```base.css``` file and in ```js``` folder create ```base.js``` file:  
-![ex3-9](../../../django-framework-exercises/screenshots/ex3-9.png) 
+  ![ex3-9](../../../django-framework-exercises/screenshots/ex3-9.png) 
 
 * add information about ```static``` folder to setting [STATICFILES_DIRS](https://docs.djangoproject.com/en/3.2/ref/settings/#std:setting-STATICFILES_DIRS) in ```settings.py``` configuration file.  
 ![ex3-9a](../../../django-framework-exercises/screenshots/ex3-9a.png) 
 
   Some useful hints could be found [here](https://adamj.eu/tech/2020/03/16/use-pathlib-in-your-django-project/).
 
-* in ```base.css``` add rule for changing color of all (or selected) paragraphs to red. 
-![ex3-10](../../../django-framework-exercises/screenshots/ex3-10.png) 
+* in ```base.css``` add rule for changing color of all (or selected) paragraphs to red.  
+
+  ![ex3-10](../../../django-framework-exercises/screenshots/ex3-10.png) 
 
 * in ```base.js``` add rule for changing color of all (or selected) specific headers to green. 
-![ex3-11](../../../django-framework-exercises/screenshots/ex3-11.png) 
+  ![ex3-11](../../../django-framework-exercises/screenshots/ex3-11.png) 
 
 * if everything works fine, you should see effects of your changes:
-![ex3-12](../../../django-framework-exercises/screenshots/ex3-12.png) 
+  ![ex3-12](../../../django-framework-exercises/screenshots/ex3-12.png) 
 
 ## Input/Output:
 ```
