@@ -45,7 +45,7 @@
    * if not set value of this cookie on 1 and set value ```Welcome for the first time``` for second cookie named ```text```
       ![ex4-9](../../../django-framework-exercises/screenshots/ex4-9.png)
 
-* Hint: cookie's values are always strings, so remember about casting!  [ex]
+* Hint: cookie's values are always strings, so remember about casting!
 * add url ```set-own-cookie``` for this view in app-level ```urls.py``` and remember about importing this view earlier!
          ![ex4-10](../../../django-framework-exercises/screenshots/ex4-10.png)
 * in browser open link ```http://127.0.0.1:8000/set-own-cookie/``` to check setting cookies,  and open 'Storage' tab in browser's Web Development Tools
