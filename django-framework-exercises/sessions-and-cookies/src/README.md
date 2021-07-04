@@ -67,7 +67,7 @@
       ![ex4-13](../../../django-framework-exercises/screenshots/ex4-13.png)
 
 * add url ```create-session``` for this view in app-level ```urls.py``` and remember about importing this view earlier!
-         ![ex4-13](../../../django-framework-exercises/screenshots/ex4-13.png)
+         ![ex4-13a](../../../django-framework-exercises/screenshots/ex4-13a.png)
 
 * in browser open link ```http://127.0.0.1:8000/create-session/``` to set session data.
 
