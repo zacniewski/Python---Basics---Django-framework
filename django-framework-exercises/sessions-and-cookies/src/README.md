@@ -41,7 +41,7 @@
 * Django’s request object has an attribute COOKIES (available via ```request.COOKIES```), which behaves like standard dictionary. You can  use dictionary's methods like for example [get](https://www.geeksforgeeks.org/get-method-dictionaries-python/),  
 
 * add view ```set_own_cookie``` that checks if we have set cookie named ```visits```:
-   * if yes then increase (+1) value for this cookie and set value ```Hello, again``` for second cookie named ```text```.  
+   * if yes then increase (+1) value for this cookie and set value ```Hello again``` for second cookie named ```text```.  
    * if not set value of this cookie on 1 and set value ```Welcome for the first time``` for second cookie named ```text```
       ![ex4-9](../../../django-framework-exercises/screenshots/ex4-9.png)
 
