@@ -38,5 +38,6 @@ order of appearance in the setting during the request phase, and in reverse orde
 
 ## Input/Output:
 ```
-Working with SimpleTestCase (not for databases) and with TestCase testing tools in Django.
+Working custom middleware.
+
 ```
