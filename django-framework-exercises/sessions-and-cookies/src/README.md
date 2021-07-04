@@ -56,54 +56,43 @@
 
 * The ```sessionid``` cookie contains a series of letters and numbers which Django uses to uniquely identify your session. From there, all your session details can be accessed - but only on the server side. Django uses this cookie to look up the session in the database where it stores all the server side cookies about that session.
 
-4. Reading and Writing Session Data.  
+4. Reading and writing session data.  
 * more secure way to save session information is to store any such data on the server side. We can then use the ```sessionid``` cookie which is stored on the client side (but is effectively anonymous) as the key to unlock the data.
 
-* a ```sessionid``` cookie is still used to remember the client’s machine (so technically a browser side cookie exists), however all the data is stored serve side.
+* a ```sessionid``` cookie is still used to remember the client’s machine (so technically a browser side cookie exists), however all the data is stored server side.
 
-* add another  function based view (named for example ```base_view```), that uses [render](https://docs.djangoproject.com/en/3.2/topics/http/shortcuts/#render) function with previously created template ```base.html```,
-* add class based view (named for example ```AboutView```), that uses previously created template ```about.html```,
-*  Hint: you can use [TemplateView](https://docs.djangoproject.com/en/3.2/topics/class-based-views/).
+* a Django request object has a ```session``` attribute that acts like a dictionary.
 
-   ![ex3-4](../../../django-framework-exercises/screenshots/ex3-4.png)
+* add view ```create_session``` that creates session variables - ```name```, ```surname``` and ```password``` (hard-coded values):
+      ![ex4-13](../../../django-framework-exercises/screenshots/ex4-13.png)
 
-5. Update your app-level ```urls.py```. Import created views and create two different paths (for both views, for example '' and 'about/'):    
-   ![ex3-5](../../../django-framework-exercises/screenshots/ex3-5.png)
+* add url ```create-session``` for this view in app-level ```urls.py``` and remember about importing this view earlier!
+         ![ex4-13](../../../django-framework-exercises/screenshots/ex4-13.png)
 
-6. Run development server to check if recently added added urls work:  
-```python manage.py runserver```  
+* in browser open link ```http://127.0.0.1:8000/create-session/``` to set session data.
 
-*  Check links ```http://127.0.0.1:8000/``` and ```http://127.0.0.1:8000/about/``` in the browser.   You should see something similar to following picture:
+* add view ```read_session``` that reads created variables.
+      ![ex4-14](../../../django-framework-exercises/screenshots/ex4-14.png)
 
-   ![ex3-6](../../../django-framework-exercises/screenshots/ex3-6.png)  
+* add url ```read-session``` for this view in app-level ```urls.py``` and remember about importing this view earlier!
+         ![ex4-15](../../../django-framework-exercises/screenshots/ex4-15.png)
 
-7. In the ```base.html``` template add links to other created pages using [url](https://docs.djangoproject.com/en/3.2/ref/templates/builtins/#url) template tag:
+* in browser open link ```http://127.0.0.1:8000/read-session/``` to read your session data.
+         ![ex4-16](../../../django-framework-exercises/screenshots/ex4-16.png)
 
-   ![ex3-7](../../../django-framework-exercises/screenshots/ex3-7.png) 
+* add view ```delete_session``` that deletes created variables.
+      ![ex4-17](../../../django-framework-exercises/screenshots/ex4-17.png)
 
-*  the page could look like this:  
-   ![ex3-8](../../../django-framework-exercises/screenshots/ex3-8.png) 
+* add url ```delete-session``` for this view in app-level ```urls.py``` and remember about importing this view earlier!
+      ![ex4-18](../../../django-framework-exercises/screenshots/ex4-18.png)
 
-8. Adding static files to project:
-*  create folder ```static``` at the project level and create two folders inside it: ```css``` and ```js```.  
-In ```css``` folder create ```base.css``` file and in ```js``` folder create ```base.js``` file:  
-![ex3-9](../../../django-framework-exercises/screenshots/ex3-9.png) 
+* in browser open link ```http://127.0.0.1:8000/delete-session/``` to delete your session data.
+         ![ex4-19](../../../django-framework-exercises/screenshots/ex4-19.png)
 
-* add information about ```static``` folder to setting [STATICFILES_DIRS](https://docs.djangoproject.com/en/3.2/ref/settings/#std:setting-STATICFILES_DIRS) in ```settings.py``` configuration file.  
-![ex3-9a](../../../django-framework-exercises/screenshots/ex3-9a.png) 
-
-  Some useful hints could be found [here](https://adamj.eu/tech/2020/03/16/use-pathlib-in-your-django-project/).
-
-* in ```base.css``` add rule for changing color of all (or selected) paragraphs to red. 
-![ex3-10](../../../django-framework-exercises/screenshots/ex3-10.png) 
-
-* in ```base.js``` add rule for changing color of all (or selected) specific headers to green. 
-![ex3-11](../../../django-framework-exercises/screenshots/ex3-11.png) 
-
-* if everything works fine, you should see effects of your changes:
-![ex3-12](../../../django-framework-exercises/screenshots/ex3-12.png) 
+* in browser open link ```http://127.0.0.1:8000/read-session/``` to read your current session data.
+         ![ex4-20](../../../django-framework-exercises/screenshots/ex4-20.png)
 
 ## Input/Output:
 ```
-Working urls, views and templates with static (CSS and JavaScript) files.
+Working with cookies (testing browser support, setting own) and session management (writing, reading and deleting).
 ```
