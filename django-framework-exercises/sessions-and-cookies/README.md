@@ -13,11 +13,10 @@
 * to store session information in a Django model/database (will be covered later) the most straightforward approach is to use the ```django.contrib.sessions``` application (check the INSTALLED_APPS list).
 
 2. Working with cookies 
-* our database ```db.sqlite3``` is empty and without tables. In order to work with sessions (and many other things) in Django we must create proper tables. Luckily, Django will do it for us using ORM (Object-Relational Mapping) and 'migrations' (this topics will be covered later). If you don't do it, you can encounter errors like this:  
-      ![ex4-2](../../django-framework-exercises/screenshots/ex4-2.png)
+* our database ```db.sqlite3``` is empty and without tables. In order to work with sessions (and many other things) in Django we must create proper tables. Luckily, Django will do it for us using ORM (Object-Relational Mapping) and 'migrations' (this topics will be covered later). If you don't do it, you can encounter errors.  
 
 * to do this, simply stop development server and run command: ```python manage.py migrate```.      
-      ![ex4-3](../../django-framework-exercises/screenshots/ex4-3.png)
+
 * after proper execution of this command you shouldn't see warnings about migrations mentioned earlier. 
 
 * check if your browser supports cookies by modifying [example](https://docs.djangoproject.com/en/3.2/topics/http/sessions/#setting-test-cookies) from documentation:
