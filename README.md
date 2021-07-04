@@ -24,7 +24,7 @@ Here are some useful resources for you to explore:
 ## Exercises
 
 1. Basic project setup and 'Hello world' in Django
-> **Time:** 15 minutes
+> **Time:** 20 minutes
 >
 > **Level of Difficult**: Low
 >
@@ -46,7 +46,7 @@ Here are some useful resources for you to explore:
 > **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/django-framework-exercises/tree/solution/urls-and-routing/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/urls-and-routing/src)
 
 3. Views and templating
-> **Time:** 30 minutes
+> **Time:** 60 minutes
 >
 > **Level of Difficult**: medium
 >
@@ -55,7 +55,7 @@ Here are some useful resources for you to explore:
 > **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/views-and-templating/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/views-and-templating/src)
 
 4. Sessions and cookies
-> **Time:** 15 minutes
+> **Time:** 40 minutes
 >
 > **Level of Difficult**: medium
 >
@@ -64,7 +64,7 @@ Here are some useful resources for you to explore:
 > **Solution:** [https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/sessions-and-cookies/src](https://github.com/zacniewski/Python-Basics-Django-framework/tree/solution/django-framework-exercises/sessions-and-cookies/src)
 
 5. Testing in Django
-> **Time:** 25 minutes
+> **Time:** 30 minutes
 >
 > **Level of Difficult**: medium
 >
@@ -74,7 +74,7 @@ Here are some useful resources for you to explore:
 
 
 6. Django middleware
-> **Time:** 15 minutes
+> **Time:** 40 minutes
 >
 > **Level of Difficult**: low
 >
