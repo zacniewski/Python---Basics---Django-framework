@@ -24,7 +24,7 @@ Here are some useful resources for you to explore:
 ## Exercises
 
 1. Basic project setup and 'Hello world' in Django
-> **Time:** 15 minutes
+> **Time:** 20 minutes
 >
 > **Level of Difficult**: Low
 >
@@ -44,7 +44,7 @@ Here are some useful resources for you to explore:
 >
 
 3. Views and templating
-> **Time:** 30 minutes
+> **Time:** 60 minutes
 >
 > **Level of Difficult**: medium
 >
@@ -52,7 +52,7 @@ Here are some useful resources for you to explore:
 >
 
 4. Sessions and cookies
-> **Time:** 30 minutes
+> **Time:** 40 minutes
 >
 > **Level of Difficult**: medium
 >
